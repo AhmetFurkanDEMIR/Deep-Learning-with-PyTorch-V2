@@ -12,3 +12,5 @@
       modelin daha iyi geneleştirme yapmasını sağlar.
       eğitim süresince  verinin ortalaması ve standart sapmasının değişimlerine bakarak veriyi normalize eder. 
 * Tek etiketli çoklu sınıflandırma yaptığımız için son katmanın aktivasyon fonksiyonunu softmax olarak seçtik.
+
+![Screenshot_2020-05-01_00-26-42](https://user-images.githubusercontent.com/54184905/80761047-81341d00-8b42-11ea-9893-142be5e740db.png)
