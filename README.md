@@ -14,7 +14,7 @@
 * Tek etiketli çoklu sınıflandırma yaptığımız için son katmanın aktivasyon fonksiyonunu softmax olarak seçtik.
 
 ![Screenshot_2020-05-01_00-26-42](https://user-images.githubusercontent.com/54184905/80761047-81341d00-8b42-11ea-9893-142be5e740db.png)
-(Kaynak : https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
+(Resim Kaynak : https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
 
 * Geri kalan açıklamalar kod satırlarında mevcuttur.
 
@@ -22,4 +22,4 @@
 
 * Modelin kullanım videosu = 
 
-Kaynak : https://www.packtpub.com/data/pytorch-computer-vision-cookbook
+Proje Kaynak : https://www.packtpub.com/data/pytorch-computer-vision-cookbook
