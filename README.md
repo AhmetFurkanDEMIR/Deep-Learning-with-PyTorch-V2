@@ -14,3 +14,9 @@
 * Tek etiketli çoklu sınıflandırma yaptığımız için son katmanın aktivasyon fonksiyonunu softmax olarak seçtik.
 
 ![Screenshot_2020-05-01_00-26-42](https://user-images.githubusercontent.com/54184905/80761047-81341d00-8b42-11ea-9893-142be5e740db.png)
+
+* Geri kalan açıklamalar kod satırlarında mevcuttur.
+
+* Modeli, model adlı klasörün içindeki model_test.py adlı python dosyası ile test edebilirsiniz.
+
+* Modelin kullanım videosu = 
