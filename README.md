@@ -7,7 +7,8 @@
 * Bu projemizde MNIST veri setini kullanarak 0 dan 9 a kadar olan sayıları sınıflandıracağız. (Çoklu sınıflandırma)
 * Modelimizde Evrişimli Sinir Ağlarını kullandık (ilk projemizde tamamen bağlı katmanları kullanmıştık.)
 * Ekstra olarak modelimizde max pooling katmanlar bulunmaktadır.
-- Yığın normalleştirme
-- modelin daha iyi geneleştirme yapmasını sağlar.
-- eğitim süresince  verinin ortalaması ve standart sapmasının değişimlerine bakarak veriyi normalize eder. 
+                      
+      Yığın normalleştirme
+      modelin daha iyi geneleştirme yapmasını sağlar.
+      eğitim süresince  verinin ortalaması ve standart sapmasının değişimlerine bakarak veriyi normalize eder. 
 * Tek etiketli çoklu sınıflandırma yaptığımız için son katmanın aktivasyon fonksiyonunu softmax olarak seçtik.
