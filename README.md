@@ -20,6 +20,6 @@
 
 * Modeli, model adlı klasörün içindeki model_test.py adlı python dosyası ile test edebilirsiniz.
 
-* Modelin kullanım videosu = 
+* Modelin kullanım videosu = https://www.linkedin.com/feed/update/urn:li:activity:6661748171854663680/
 
 Proje Kaynak : https://www.packtpub.com/data/pytorch-computer-vision-cookbook
