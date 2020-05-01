@@ -4,7 +4,7 @@
 
 # Deep Learning with PyTorch V2
 
-* Bu projemizde MNIST veri setini kullanarak 0 dan 9 a kadar olan sayıları sınıflandıracağız. (Çoklu sınıflandırma)
+* Bu projemizde MNIST veri setini kullanarak 0 dan 9 a kadar olan sayıları sınıflandıracağız.(Çoklu sınıflandırma)
 * Modelimizde Evrişimli Sinir Ağlarını kullandık (ilk projemizde tamamen bağlı katmanları kullanmıştık.)
 * Ekstra olarak modelimizde max pooling katmanlar bulunmaktadır.
                       
